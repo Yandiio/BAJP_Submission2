@@ -1,4 +1,4 @@
-package com.dicoding.bajp.yandi.data.response
+package com.dicoding.bajp.yandi.data.response.movie
 
 import com.google.gson.annotations.SerializedName
 
